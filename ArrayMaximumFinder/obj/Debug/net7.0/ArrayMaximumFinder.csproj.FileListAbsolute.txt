@@ -1,0 +1,14 @@
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\bin\Debug\net7.0\ArrayMaximumFinder.exe
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\bin\Debug\net7.0\ArrayMaximumFinder.deps.json
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\bin\Debug\net7.0\ArrayMaximumFinder.runtimeconfig.json
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\bin\Debug\net7.0\ArrayMaximumFinder.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\bin\Debug\net7.0\ArrayMaximumFinder.pdb
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\obj\Debug\net7.0\ArrayMaximumFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\obj\Debug\net7.0\ArrayMaximumFinder.AssemblyInfoInputs.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\obj\Debug\net7.0\ArrayMaximumFinder.AssemblyInfo.cs
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\obj\Debug\net7.0\ArrayMaximumFinder.csproj.CoreCompileInputs.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\obj\Debug\net7.0\ArrayMaximumFinder.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\obj\Debug\net7.0\refint\ArrayMaximumFinder.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\obj\Debug\net7.0\ArrayMaximumFinder.pdb
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\obj\Debug\net7.0\ArrayMaximumFinder.genruntimeconfig.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\ArrayMaximumFinder\obj\Debug\net7.0\ref\ArrayMaximumFinder.dll

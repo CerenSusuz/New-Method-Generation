@@ -1,0 +1,14 @@
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\bin\Debug\net7.0\StringToTitleCaseConverter.exe
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\bin\Debug\net7.0\StringToTitleCaseConverter.deps.json
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\bin\Debug\net7.0\StringToTitleCaseConverter.runtimeconfig.json
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\bin\Debug\net7.0\StringToTitleCaseConverter.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\bin\Debug\net7.0\StringToTitleCaseConverter.pdb
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\obj\Debug\net7.0\StringToTitleCaseConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\obj\Debug\net7.0\StringToTitleCaseConverter.AssemblyInfoInputs.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\obj\Debug\net7.0\StringToTitleCaseConverter.AssemblyInfo.cs
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\obj\Debug\net7.0\StringToTitleCaseConverter.csproj.CoreCompileInputs.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\obj\Debug\net7.0\StringToTitleCaseConverter.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\obj\Debug\net7.0\refint\StringToTitleCaseConverter.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\obj\Debug\net7.0\StringToTitleCaseConverter.pdb
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\obj\Debug\net7.0\StringToTitleCaseConverter.genruntimeconfig.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\StringToTitleCaseConverter\obj\Debug\net7.0\ref\StringToTitleCaseConverter.dll

@@ -1,0 +1,14 @@
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\bin\Debug\net7.0\PrimeSumCalculator.exe
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\bin\Debug\net7.0\PrimeSumCalculator.deps.json
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\bin\Debug\net7.0\PrimeSumCalculator.runtimeconfig.json
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\bin\Debug\net7.0\PrimeSumCalculator.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\bin\Debug\net7.0\PrimeSumCalculator.pdb
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\obj\Debug\net7.0\PrimeSumCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\obj\Debug\net7.0\PrimeSumCalculator.AssemblyInfoInputs.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\obj\Debug\net7.0\PrimeSumCalculator.AssemblyInfo.cs
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\obj\Debug\net7.0\PrimeSumCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\obj\Debug\net7.0\PrimeSumCalculator.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\obj\Debug\net7.0\refint\PrimeSumCalculator.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\obj\Debug\net7.0\PrimeSumCalculator.pdb
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\obj\Debug\net7.0\PrimeSumCalculator.genruntimeconfig.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\GenerateMethods\PrimeSumCalculator\obj\Debug\net7.0\ref\PrimeSumCalculator.dll
